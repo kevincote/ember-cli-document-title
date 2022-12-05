@@ -1,3 +1,5 @@
+import Ember from 'ember';
+
 ;(function() {
   var get = Ember.get;
   var getOwner = Ember.getOwner;
